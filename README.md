@@ -1,4 +1,1 @@
-hello-world
-===========
-
-blah
+Beginning my open source project journey
